@@ -20,7 +20,7 @@ This page is designed to monitor and evaluate freight operations, offering detai
 * Total Product by Plant Code: Displays production volume per plant.
 
 * Data Table – Origin Port Metrics: Lists rates, min/max weight, and shipping costs, filterable by carrier and port.
-![](Imaages/1st.JPG)
+![](Images/1st.JPG)
 # Dashboard Overview – Page 2: Order Details
 This page shifts focus to customer orders, service levels, and carrier performance, giving a holistic view of the delivery lifecycle.
 
